@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<resources>
+    <!-- Name der App -->
+    <string name="app_name">Hallo Android!</string>
+
+    <!-- Willkommensmeldung -->
+    <string name="willkommen" >Guten Tag. Schön, dass sie mich gestartet haben.
+        Bitte verraten sie mir ihren Namen.
+    </string>
+
+    <string name="vorname_nachname">Vorname Nachname</string>
+
+    <!-- persönlicher Gruß -->
+    <string name="hallo">
+        Hallo %1$s. Ich freue mich sie kennenzulernen.
+    </string>
+
+    <!-- Beschriftung für Schaltflächen -->
+    <string name="weiter">Weiter</string>
+    <string name="fertig">Fertig</string>
+
+    <!-- aus generierten Daten -->
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
